@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gobk5llVnnjqapZudC3vh8FhSmZSLXFYIylItoUwo+Ut0MC9yPzDA0RZmm/LBEJegbolOv5VpsmyR5VCJvV4QQ==",
+  "dgSpecHash": "Kl3zP8ETV/UEqxp/ETEvyp7kPiYs0gRlg3Wdp/J/9ljFHhV35Z75M3pBgaQw6A/pxehik72p3yxZOdRBxxQe1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
+  "projectFilePath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melyp\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\melyp\\.nuget\\packages\\sqlite-net\\1.6.292\\sqlite-net.1.6.292.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsIhc9o/mvtZoB8L0UN6TKS9WmGkM+BUNrb1eCDSfX2SvxNZBfkklI6QubafW5lkocPKcewHIQNb6DfC+z+r6g==",
+  "dgSpecHash": "hG60+EzR9n5HTcbUQ5Pe2Jg6YEcRJxrMTjgmwkHBYWeNQj8WzcAAahUuIiX7p52B52BGog3buZ0ySEMkvJKRLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
+  "projectFilePath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melyp\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\melyp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

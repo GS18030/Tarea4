@@ -13,20 +13,24 @@ namespace GestorAnticipos.Vistas
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Listado : ContentPage
     {
+       
+
         public Listado()
         {
             InitializeComponent();
+           
         }
 
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            ListaDatos.ItemsSource = App.Data.getAnticipos();
+            Datos.ConsultaAnticipos consulta = new Datos.ConsultaAnticipos();
+            ListaDatos.ItemsSource = consulta.getAnticipos();
         }
 
         private void btnEliminar_Clicked(object sender, EventArgs e)
         {
-            
+             DisplayAlert("Eliminar", "Anticipo eliminado con éxito", "OK");
         }
     }
 }

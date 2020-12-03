@@ -20,11 +20,7 @@ namespace GestorAnticipos.Datos
             db.CreateTable<Anticipos>();
         }
 
-        public List<Anticipos> getAnticipos()
-        {
-            return db.Table<Anticipos>().ToList();
-        }
-
+        
 
         public int insertEmpleados(Empleados tbl)
         {

@@ -17,7 +17,7 @@ namespace GestorAnticipos
             {
                 if (data == null)
                 {
-                    data = new Conexion(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "basedatos.db3"));
+                    data = new Conexion(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "gestordatos.db3"));
                 }
                 return data;
             }

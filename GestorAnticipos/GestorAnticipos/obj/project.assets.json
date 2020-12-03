@@ -3681,11 +3681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
+      "projectUniqueName": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
       "projectName": "GestorAnticipos",
-      "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
+      "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
       "packagesPath": "C:\\Users\\melyp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\obj\\",
+      "outputPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

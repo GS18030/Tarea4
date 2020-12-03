@@ -1704,11 +1704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.iOS\\GestorAnticipos.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.iOS\\GestorAnticipos.iOS.csproj",
       "projectName": "GestorAnticipos.iOS",
-      "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.iOS\\GestorAnticipos.iOS.csproj",
+      "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.iOS\\GestorAnticipos.iOS.csproj",
       "packagesPath": "C:\\Users\\melyp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.iOS\\obj\\",
+      "outputPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1729,8 +1729,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
-              "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj"
+            "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
+              "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj"
             }
           }
         }

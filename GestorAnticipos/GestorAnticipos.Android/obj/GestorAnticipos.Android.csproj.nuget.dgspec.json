@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj": {}
+    "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj": {
+    "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
+        "projectUniqueName": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
         "projectName": "GestorAnticipos.Android",
-        "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
+        "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\GestorAnticipos.Android.csproj",
         "packagesPath": "C:\\Users\\melyp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.Android\\obj\\",
+        "outputPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
-                "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj"
+              "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
+                "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
+    "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
+        "projectUniqueName": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
         "projectName": "GestorAnticipos",
-        "projectPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
+        "projectPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos.csproj",
         "packagesPath": "C:\\Users\\melyp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melyp\\source\\repos\\GestorAnticipos\\GestorAnticipos\\GestorAnticipos\\obj\\",
+        "outputPath": "C:\\Users\\melyp\\Documents\\Tarea4\\GestorAnticipos\\GestorAnticipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
